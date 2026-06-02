@@ -1,0 +1,281 @@
+SchoolID,Region,Sector,ICSEA,SEIFAQuartile,Enrolments,ReadingScore,NumeracyScore,AttendanceRate,DisadvantageBand
+S0001,Sydney Metro,Government,1180,4,128,572.9,552.8,95.6,Q4 Most advantaged
+S0002,Riverina,Government,872,1,253,420.3,454.3,92.6,Q1 Most disadvantaged
+S0003,Riverina,Catholic,913,2,643,429.5,439.5,94.1,Q2
+S0004,Illawarra,Government,915,2,431,413.9,428.7,92.9,Q2
+S0005,Illawarra,Government,1002,3,716,509.3,471.8,92.7,Q3
+S0006,Sydney Metro,Government,1035,3,499,479.4,504.7,95.8,Q3
+S0007,Riverina,Government,994,2,301,448.9,469.3,93.8,Q2
+S0008,Murrumbidgee,Government,915,2,210,454.4,442.3,93.4,Q2
+S0009,Western Sydney,Independent,1121,4,435,529.8,512.8,95.9,Q4 Most advantaged
+S0010,Central Coast,Government,946,2,443,455.4,520.7,92.5,Q2
+S0011,Murrumbidgee,Independent,993,2,531,483.3,474.4,93.5,Q2
+S0012,Murrumbidgee,Independent,973,2,505,465.7,483.7,95.9,Q2
+S0013,Far West,Government,1092,4,435,525.2,510.6,95.3,Q4 Most advantaged
+S0014,Far West,Catholic,1062,3,231,492.6,497.3,94.3,Q3
+S0015,New England,Government,1090,4,220,539.2,494.0,94.8,Q4 Most advantaged
+S0016,Illawarra,Government,1002,3,683,526.1,469.5,92.5,Q3
+S0017,Hunter,Government,980,2,130,423.3,457.7,96.3,Q2
+S0018,Illawarra,Government,909,1,273,453.5,442.5,92.2,Q1 Most disadvantaged
+S0019,New England,Government,972,2,448,472.9,488.9,91.9,Q2
+S0020,New England,Government,979,2,60,458.3,440.0,93.9,Q2
+S0021,Sydney Metro,Catholic,1017,3,125,487.2,493.1,95.7,Q3
+S0022,Hunter,Government,957,2,494,484.4,463.5,90.8,Q2
+S0023,New England,Catholic,1000,2,363,480.4,479.5,91.7,Q2
+S0024,Hunter,Government,978,2,420,462.8,493.8,95.4,Q2
+S0025,Murrumbidgee,Independent,902,1,388,455.8,458.2,91.4,Q1 Most disadvantaged
+S0026,Far West,Government,898,1,426,435.7,460.5,89.7,Q1 Most disadvantaged
+S0027,Mid North Coast,Government,927,2,60,453.4,424.7,91.9,Q2
+S0028,Central Coast,Catholic,1029,3,329,501.8,500.9,96.2,Q3
+S0029,Murrumbidgee,Government,996,2,421,469.6,490.5,95.1,Q2
+S0030,New England,Government,946,2,421,469.4,458.4,94.7,Q2
+S0031,Murrumbidgee,Government,1011,3,712,472.5,475.1,92.9,Q3
+S0032,Illawarra,Government,1066,3,443,505.9,498.9,92.8,Q3
+S0033,Mid North Coast,Catholic,1014,3,326,495.1,484.0,94.0,Q3
+S0034,Sydney Metro,Catholic,1063,3,621,484.7,506.7,97.2,Q3
+S0035,Riverina,Catholic,866,1,719,395.3,383.9,94.0,Q1 Most disadvantaged
+S0036,Illawarra,Catholic,1000,2,519,477.5,486.2,94.1,Q2
+S0037,Riverina,Government,1035,3,306,498.3,461.1,93.7,Q3
+S0038,Hunter,Catholic,989,2,332,467.9,485.3,92.6,Q2
+S0039,Far West,Catholic,1025,3,877,527.4,479.2,93.2,Q3
+S0040,Riverina,Government,1010,3,681,470.2,482.4,92.1,Q3
+S0041,Mid North Coast,Government,837,1,487,402.0,410.5,92.4,Q1 Most disadvantaged
+S0042,Far West,Government,1031,3,403,517.2,509.7,90.5,Q3
+S0043,Riverina,Government,915,2,369,448.2,461.6,94.9,Q2
+S0044,Sydney Metro,Government,985,2,677,474.8,464.4,90.4,Q2
+S0045,Murrumbidgee,Independent,970,2,441,437.4,473.6,95.8,Q2
+S0046,Sydney Metro,Government,934,2,298,439.9,441.1,94.0,Q2
+S0047,Western Sydney,Catholic,963,2,197,506.3,440.9,95.7,Q2
+S0048,Mid North Coast,Government,1026,3,551,477.9,506.4,91.8,Q3
+S0049,Sydney Metro,Government,1015,3,197,473.6,472.6,97.0,Q3
+S0050,Riverina,Government,1001,3,579,500.8,477.1,94.3,Q3
+S0051,Mid North Coast,Government,868,1,532,433.9,403.1,91.5,Q1 Most disadvantaged
+S0052,Illawarra,Catholic,889,1,635,415.1,404.2,91.8,Q1 Most disadvantaged
+S0053,Sydney Metro,Government,1022,3,423,487.4,488.9,96.2,Q3
+S0054,Western Sydney,Catholic,1060,3,477,498.7,488.4,97.8,Q3
+S0055,Illawarra,Government,1034,3,519,523.8,519.6,90.8,Q3
+S0056,Illawarra,Government,978,2,454,450.4,458.5,93.1,Q2
+S0057,Riverina,Government,880,1,421,417.6,416.9,93.1,Q1 Most disadvantaged
+S0058,Western Sydney,Government,862,1,474,425.4,435.5,92.7,Q1 Most disadvantaged
+S0059,Murrumbidgee,Catholic,1118,4,775,538.0,527.6,94.2,Q4 Most advantaged
+S0060,Illawarra,Government,958,2,531,484.0,472.0,91.1,Q2
+S0061,Mid North Coast,Government,1041,3,732,540.8,496.2,94.7,Q3
+S0062,Western Sydney,Catholic,1066,3,166,500.5,490.5,91.9,Q3
+S0063,Riverina,Government,1091,4,668,519.7,533.8,94.8,Q4 Most advantaged
+S0064,Central Coast,Government,962,2,277,458.9,478.7,96.5,Q2
+S0065,Far West,Government,1028,3,362,484.1,491.5,94.2,Q3
+S0066,Sydney Metro,Government,1050,3,398,492.6,530.5,94.9,Q3
+S0067,New England,Government,1141,4,682,578.4,529.4,95.8,Q4 Most advantaged
+S0068,Mid North Coast,Government,973,2,101,494.8,455.2,96.8,Q2
+S0069,Hunter,Catholic,884,1,533,411.2,435.8,94.8,Q1 Most disadvantaged
+S0070,Western Sydney,Catholic,1058,3,639,493.1,507.5,94.2,Q3
+S0071,Western Sydney,Catholic,978,2,588,471.8,480.9,93.9,Q2
+S0072,Mid North Coast,Government,863,1,165,380.2,469.0,93.0,Q1 Most disadvantaged
+S0073,Murrumbidgee,Catholic,1050,3,395,500.3,521.8,93.8,Q3
+S0074,Mid North Coast,Government,981,2,708,492.3,469.8,95.3,Q2
+S0075,Far West,Government,1022,3,576,436.6,486.4,92.8,Q3
+S0076,Hunter,Government,1007,3,693,494.5,492.4,94.6,Q3
+S0077,Murrumbidgee,Independent,1022,3,247,519.1,470.1,96.3,Q3
+S0078,Riverina,Government,1071,3,139,516.9,522.2,94.7,Q3
+S0079,Western Sydney,Independent,947,2,293,475.1,445.7,92.9,Q2
+S0080,Far West,Government,949,2,492,476.5,448.5,91.6,Q2
+S0081,Hunter,Government,1053,3,672,471.8,490.6,92.4,Q3
+S0082,Central Coast,Government,983,2,693,490.6,456.7,93.9,Q2
+S0083,Central Coast,Government,1017,3,464,489.9,489.8,94.0,Q3
+S0084,Far West,Government,1068,3,535,507.6,501.9,95.9,Q3
+S0085,Central Coast,Catholic,1030,3,551,536.1,477.6,91.5,Q3
+S0086,Hunter,Government,1054,3,709,520.2,486.9,96.0,Q3
+S0087,Hunter,Government,1024,3,68,467.8,483.1,94.6,Q3
+S0088,Riverina,Government,979,2,504,474.4,490.8,92.7,Q2
+S0089,Illawarra,Government,1021,3,242,456.9,479.2,92.5,Q3
+S0090,Illawarra,Government,1065,3,81,515.0,510.1,97.1,Q3
+S0091,Murrumbidgee,Government,1083,3,763,506.1,548.4,93.4,Q3
+S0092,Western Sydney,Government,938,2,811,473.5,469.4,93.3,Q2
+S0093,Riverina,Government,1005,3,553,497.4,478.2,94.9,Q3
+S0094,Western Sydney,Government,919,2,864,444.2,443.0,92.5,Q2
+S0095,New England,Catholic,1102,4,619,530.3,544.6,95.6,Q4 Most advantaged
+S0096,New England,Catholic,1038,3,609,485.7,482.6,95.7,Q3
+S0097,Illawarra,Government,921,2,618,443.9,443.0,90.2,Q2
+S0098,Central Coast,Government,1036,3,204,458.3,518.0,93.2,Q3
+S0099,Riverina,Government,938,2,495,462.4,461.0,94.0,Q2
+S0100,Central Coast,Government,1021,3,370,519.3,477.8,95.2,Q3
+S0101,Sydney Metro,Government,1011,3,533,496.5,488.6,94.9,Q3
+S0102,Central Coast,Independent,953,2,540,462.0,436.8,96.2,Q2
+S0103,Illawarra,Government,982,2,494,480.3,476.8,95.1,Q2
+S0104,Hunter,Government,1139,4,676,544.3,534.4,94.5,Q4 Most advantaged
+S0105,Sydney Metro,Government,1112,4,335,538.1,474.1,94.1,Q4 Most advantaged
+S0106,Riverina,Government,934,2,629,450.8,424.0,95.6,Q2
+S0107,Mid North Coast,Catholic,1075,3,608,541.9,489.0,94.6,Q3
+S0108,Central Coast,Catholic,1027,3,795,505.5,476.4,92.6,Q3
+S0109,Riverina,Independent,1000,2,235,493.2,488.6,91.4,Q2
+S0110,Sydney Metro,Catholic,980,2,399,467.4,466.4,92.2,Q2
+S0111,Murrumbidgee,Government,852,1,327,415.0,427.8,90.2,Q1 Most disadvantaged
+S0112,Murrumbidgee,Government,976,2,753,466.8,471.9,96.6,Q2
+S0113,Sydney Metro,Independent,834,1,75,391.9,381.3,93.6,Q1 Most disadvantaged
+S0114,Murrumbidgee,Government,1008,3,459,454.5,532.8,96.1,Q3
+S0115,Illawarra,Government,930,2,236,478.3,467.8,93.5,Q2
+S0116,Central Coast,Government,1022,3,546,475.4,476.9,93.4,Q3
+S0117,Hunter,Government,907,1,818,458.0,440.2,92.3,Q1 Most disadvantaged
+S0118,Far West,Government,902,1,509,417.9,449.9,89.8,Q1 Most disadvantaged
+S0119,Illawarra,Independent,935,2,483,453.9,499.8,92.6,Q2
+S0120,Hunter,Catholic,969,2,417,468.8,467.9,92.5,Q2
+S0121,Riverina,Catholic,1180,4,412,548.2,560.5,99.0,Q4 Most advantaged
+S0122,Far West,Government,1016,3,188,503.6,500.0,96.2,Q3
+S0123,Illawarra,Government,1093,4,383,530.8,506.3,99.0,Q4 Most advantaged
+S0124,Western Sydney,Government,952,2,477,482.5,438.6,92.4,Q2
+S0125,New England,Catholic,1014,3,475,483.2,529.6,92.8,Q3
+S0126,Sydney Metro,Government,1066,3,301,523.6,524.3,93.8,Q3
+S0127,Mid North Coast,Government,915,2,382,451.2,424.5,93.7,Q2
+S0128,Riverina,Government,936,2,431,439.4,443.5,93.3,Q2
+S0129,Murrumbidgee,Catholic,967,2,533,440.6,465.0,94.4,Q2
+S0130,Western Sydney,Government,989,2,678,481.7,486.6,91.8,Q2
+S0131,Illawarra,Government,947,2,369,428.3,455.4,93.3,Q2
+S0132,Hunter,Catholic,940,2,499,458.1,461.3,93.9,Q2
+S0133,Riverina,Government,927,2,525,456.5,468.1,92.1,Q2
+S0134,Illawarra,Government,940,2,483,447.0,473.7,91.1,Q2
+S0135,Hunter,Government,990,2,459,472.3,474.8,94.6,Q2
+S0136,Sydney Metro,Government,1032,3,245,489.5,505.4,94.1,Q3
+S0137,Illawarra,Catholic,1017,3,702,459.0,506.0,96.3,Q3
+S0138,Riverina,Government,990,2,494,486.1,465.3,94.3,Q2
+S0139,Western Sydney,Government,950,2,597,438.4,466.6,92.0,Q2
+S0140,Riverina,Government,927,2,295,444.0,445.3,92.0,Q2
+S0141,Sydney Metro,Catholic,1006,3,285,476.2,502.7,93.4,Q3
+S0142,Sydney Metro,Independent,937,2,555,487.2,481.0,91.4,Q2
+S0143,Mid North Coast,Catholic,987,2,724,478.4,450.4,96.1,Q2
+S0144,Illawarra,Government,1017,3,422,495.5,466.1,95.7,Q3
+S0145,Hunter,Government,1031,3,252,481.3,502.4,94.4,Q3
+S0146,Murrumbidgee,Government,874,1,563,439.9,421.4,90.6,Q1 Most disadvantaged
+S0147,Mid North Coast,Independent,1150,4,276,525.2,522.4,97.6,Q4 Most advantaged
+S0148,Far West,Government,909,1,599,465.5,468.8,93.9,Q1 Most disadvantaged
+S0149,Riverina,Catholic,914,2,316,418.7,440.8,94.4,Q2
+S0150,Murrumbidgee,Government,960,2,635,489.4,476.6,93.0,Q2
+S0151,New England,Catholic,1164,4,658,509.9,550.2,97.3,Q4 Most advantaged
+S0152,Sydney Metro,Government,994,2,142,481.1,463.1,94.2,Q2
+S0153,Illawarra,Catholic,1061,3,321,522.4,524.5,93.1,Q3
+S0154,Central Coast,Government,820,1,572,409.3,378.4,90.9,Q1 Most disadvantaged
+S0155,Hunter,Government,1096,4,644,512.7,537.7,95.3,Q4 Most advantaged
+S0156,New England,Catholic,1125,4,727,557.7,529.9,96.1,Q4 Most advantaged
+S0157,Mid North Coast,Government,1043,3,434,504.8,492.4,94.2,Q3
+S0158,Western Sydney,Government,1095,4,544,524.6,535.5,96.0,Q4 Most advantaged
+S0159,Mid North Coast,Government,945,2,104,458.0,438.1,94.1,Q2
+S0160,Western Sydney,Government,1077,3,382,494.7,478.7,94.1,Q3
+S0161,Illawarra,Government,1102,4,557,527.9,507.0,96.6,Q4 Most advantaged
+S0162,Riverina,Independent,1055,3,592,525.8,486.3,93.8,Q3
+S0163,Illawarra,Government,1077,3,134,528.7,486.1,94.4,Q3
+S0164,Far West,Independent,998,2,214,497.1,463.7,95.3,Q2
+S0165,Murrumbidgee,Government,1009,3,618,496.0,469.3,95.8,Q3
+S0166,Sydney Metro,Catholic,909,1,708,422.8,463.4,91.6,Q1 Most disadvantaged
+S0167,Far West,Catholic,984,2,833,467.2,473.8,95.2,Q2
+S0168,Mid North Coast,Government,1117,4,714,526.5,536.4,91.3,Q4 Most advantaged
+S0169,New England,Government,995,2,497,501.4,461.8,95.3,Q2
+S0170,New England,Government,1072,3,107,492.4,484.0,94.4,Q3
+S0171,Riverina,Government,984,2,306,476.5,497.6,93.8,Q2
+S0172,Sydney Metro,Government,1053,3,323,526.0,498.5,96.1,Q3
+S0173,Sydney Metro,Independent,1010,3,524,466.0,509.7,95.4,Q3
+S0174,Western Sydney,Catholic,1010,3,225,525.3,470.9,93.5,Q3
+S0175,Far West,Government,989,2,299,494.9,466.9,93.8,Q2
+S0176,Riverina,Government,957,2,525,465.9,447.2,94.0,Q2
+S0177,Mid North Coast,Government,991,2,452,491.7,465.3,93.6,Q2
+S0178,Mid North Coast,Independent,1011,3,533,492.0,501.3,93.4,Q3
+S0179,Mid North Coast,Government,881,1,313,379.2,443.8,90.5,Q1 Most disadvantaged
+S0180,Central Coast,Government,964,2,496,406.3,475.7,95.2,Q2
+S0181,Murrumbidgee,Government,993,2,735,471.3,497.7,94.3,Q2
+S0182,Western Sydney,Government,928,2,511,438.5,477.0,94.3,Q2
+S0183,Sydney Metro,Catholic,960,2,372,465.7,449.1,93.5,Q2
+S0184,Central Coast,Government,1044,3,430,518.3,532.9,96.4,Q3
+S0185,New England,Government,985,2,411,468.3,498.3,94.7,Q2
+S0186,Far West,Government,1126,4,360,516.6,522.7,97.1,Q4 Most advantaged
+S0187,Central Coast,Catholic,1082,3,272,511.2,540.3,94.4,Q3
+S0188,Hunter,Government,1016,3,340,475.8,473.1,94.4,Q3
+S0189,Murrumbidgee,Government,959,2,668,446.8,449.4,89.4,Q2
+S0190,Mid North Coast,Government,837,1,385,409.8,418.9,91.6,Q1 Most disadvantaged
+S0191,Sydney Metro,Government,961,2,491,486.5,466.6,93.0,Q2
+S0192,Mid North Coast,Government,1028,3,367,494.9,481.4,90.1,Q3
+S0193,Hunter,Catholic,1035,3,219,492.8,497.6,95.2,Q3
+S0194,Far West,Government,1053,3,128,492.2,513.2,94.1,Q3
+S0195,Central Coast,Government,1180,4,600,578.0,517.6,95.5,Q4 Most advantaged
+S0196,Sydney Metro,Government,1134,4,422,512.0,522.2,96.2,Q4 Most advantaged
+S0197,Far West,Government,955,2,268,458.0,482.3,94.0,Q2
+S0198,New England,Government,1057,3,90,524.2,503.4,92.7,Q3
+S0199,New England,Government,853,1,155,380.2,429.5,91.6,Q1 Most disadvantaged
+S0200,Far West,Government,1086,3,620,509.7,486.6,94.0,Q3
+S0201,Central Coast,Independent,987,2,216,446.2,500.0,92.9,Q2
+S0202,Mid North Coast,Government,1068,3,530,519.6,518.7,95.6,Q3
+S0203,New England,Catholic,984,2,435,466.9,424.3,94.0,Q2
+S0204,Central Coast,Government,1180,4,60,577.8,580.1,94.7,Q4 Most advantaged
+S0205,Illawarra,Government,967,2,607,475.6,453.9,93.4,Q2
+S0206,Western Sydney,Government,1041,3,559,527.7,490.3,93.4,Q3
+S0207,New England,Government,948,2,714,473.0,467.2,89.8,Q2
+S0208,Murrumbidgee,Government,929,2,205,428.9,413.3,92.2,Q2
+S0209,Western Sydney,Government,976,2,60,452.1,455.4,94.6,Q2
+S0210,Riverina,Government,1054,3,205,495.5,503.7,90.8,Q3
+S0211,Mid North Coast,Catholic,889,1,82,414.2,469.6,93.9,Q1 Most disadvantaged
+S0212,Riverina,Government,989,2,414,475.4,466.3,94.6,Q2
+S0213,New England,Catholic,1008,3,413,470.8,479.9,94.0,Q3
+S0214,Riverina,Government,1047,3,367,475.8,503.7,95.7,Q3
+S0215,Sydney Metro,Government,949,2,474,482.4,451.0,93.9,Q2
+S0216,Sydney Metro,Government,972,2,552,482.2,481.1,94.2,Q2
+S0217,Western Sydney,Government,1004,3,860,511.9,492.5,91.8,Q3
+S0218,New England,Government,945,2,472,418.0,453.0,96.5,Q2
+S0219,Sydney Metro,Government,974,2,573,476.0,456.2,93.3,Q2
+S0220,Illawarra,Government,1108,4,599,517.3,518.9,94.7,Q4 Most advantaged
+S0221,Hunter,Government,991,2,288,455.0,481.9,94.2,Q2
+S0222,Far West,Government,1010,3,675,473.7,492.1,93.1,Q3
+S0223,Mid North Coast,Catholic,952,2,264,421.4,462.5,93.1,Q2
+S0224,Murrumbidgee,Government,930,2,578,461.2,472.1,93.3,Q2
+S0225,Mid North Coast,Government,958,2,332,489.2,465.8,94.4,Q2
+S0226,Sydney Metro,Catholic,993,2,283,512.4,440.4,91.9,Q2
+S0227,Central Coast,Independent,980,2,598,451.0,491.9,93.7,Q2
+S0228,New England,Government,969,2,619,467.9,481.7,95.4,Q2
+S0229,Central Coast,Government,986,2,104,468.3,471.4,96.1,Q2
+S0230,Western Sydney,Government,1052,3,621,502.6,497.5,94.6,Q3
+S0231,Mid North Coast,Catholic,923,2,509,438.7,456.4,95.7,Q2
+S0232,Riverina,Government,1031,3,546,499.2,509.2,92.9,Q3
+S0233,Sydney Metro,Government,1054,3,487,527.5,511.4,94.0,Q3
+S0234,Riverina,Government,931,2,462,461.9,464.8,94.4,Q2
+S0235,New England,Government,932,2,560,411.9,465.1,94.1,Q2
+S0236,Riverina,Government,962,2,994,466.3,482.0,92.5,Q2
+S0237,Illawarra,Government,1061,3,573,524.0,516.4,93.7,Q3
+S0238,Hunter,Independent,1011,3,251,497.0,460.8,94.1,Q3
+S0239,Murrumbidgee,Government,1061,3,389,515.7,489.8,91.9,Q3
+S0240,Far West,Government,963,2,314,415.0,479.3,93.9,Q2
+S0241,Mid North Coast,Independent,970,2,746,481.0,476.8,95.6,Q2
+S0242,Sydney Metro,Government,993,2,60,460.0,479.9,94.3,Q2
+S0243,Mid North Coast,Government,930,2,466,445.4,456.4,94.7,Q2
+S0244,Sydney Metro,Government,905,1,169,444.8,428.3,93.1,Q1 Most disadvantaged
+S0245,Riverina,Government,1091,4,433,497.5,534.9,90.4,Q4 Most advantaged
+S0246,Illawarra,Independent,1131,4,325,547.2,558.7,94.2,Q4 Most advantaged
+S0247,Western Sydney,Independent,1100,4,430,563.4,500.7,96.2,Q4 Most advantaged
+S0248,Murrumbidgee,Government,999,2,692,458.3,463.8,94.3,Q2
+S0249,Illawarra,Catholic,1080,3,532,504.2,524.8,94.2,Q3
+S0250,Far West,Independent,976,2,170,480.2,468.1,94.2,Q2
+S0251,Riverina,Catholic,1088,3,602,492.8,520.6,94.1,Q3
+S0252,Hunter,Government,958,2,509,460.5,423.1,95.2,Q2
+S0253,Sydney Metro,Catholic,1025,3,368,489.4,476.0,92.2,Q3
+S0254,Riverina,Government,1045,3,359,498.0,523.0,94.7,Q3
+S0255,Sydney Metro,Government,1044,3,311,508.8,501.8,95.5,Q3
+S0256,Mid North Coast,Independent,1061,3,621,529.8,542.3,93.0,Q3
+S0257,New England,Government,972,2,372,470.8,425.6,94.5,Q2
+S0258,Mid North Coast,Independent,895,1,530,436.6,440.8,93.8,Q1 Most disadvantaged
+S0259,New England,Government,1017,3,388,493.5,509.3,94.9,Q3
+S0260,New England,Government,942,2,619,444.5,437.7,92.9,Q2
+S0261,Illawarra,Government,984,2,624,471.7,469.9,91.2,Q2
+S0262,Illawarra,Catholic,932,2,693,422.9,448.8,92.3,Q2
+S0263,Western Sydney,Government,940,2,762,458.0,449.8,91.0,Q2
+S0264,Murrumbidgee,Government,986,2,447,485.1,450.7,93.1,Q2
+S0265,Hunter,Government,975,2,780,456.1,467.7,91.6,Q2
+S0266,Murrumbidgee,Government,1106,4,683,533.7,506.5,99.0,Q4 Most advantaged
+S0267,Hunter,Government,998,2,435,461.8,490.9,90.9,Q2
+S0268,Illawarra,Catholic,1105,4,359,540.7,510.6,96.0,Q4 Most advantaged
+S0269,Riverina,Government,1094,4,375,541.5,541.9,94.3,Q4 Most advantaged
+S0270,Illawarra,Catholic,981,2,612,506.8,487.1,93.2,Q2
+S0271,Hunter,Government,1042,3,60,481.5,513.5,92.4,Q3
+S0272,New England,Government,1083,3,98,507.3,512.3,94.2,Q3
+S0273,Far West,Government,973,2,477,449.7,429.8,93.8,Q2
+S0274,Mid North Coast,Government,1034,3,99,497.2,506.7,94.6,Q3
+S0275,Hunter,Catholic,988,2,521,457.4,499.2,93.1,Q2
+S0276,Hunter,Government,956,2,527,448.5,449.0,96.4,Q2
+S0277,Western Sydney,Government,1046,3,732,510.7,516.3,97.0,Q3
+S0278,Central Coast,Government,1045,3,338,513.5,507.2,95.8,Q3
+S0279,Riverina,Government,962,2,400,445.1,482.2,91.2,Q2
+S0280,Hunter,Government,1051,3,496,518.1,497.8,94.0,Q3
